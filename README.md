@@ -27,6 +27,9 @@ This dashboard helps **business stakeholders** better understand:
 - **DAX**
 - **Open Source Dataset (CSV/Excel)**
 
+- ## 📸 Preview
+![Dashboard](ProductSales.jpg)
+
 Feel free to explore the report visuals or use the PBIX file to test and customize your own analytics!
 
 ---
