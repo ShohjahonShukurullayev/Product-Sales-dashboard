@@ -33,3 +33,5 @@ This dashboard helps **business stakeholders** better understand:
 Feel free to explore the report visuals or use the PBIX file to test and customize your own analytics!
 
 ---
+
+✅ Developed by [Shohjahon Shukurullayev](mailto:shukurullayev111@gmail.com)
